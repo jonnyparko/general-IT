@@ -1,0 +1,6 @@
+## Add apostrophes around all words and comma seperate in Notepad++
+  Just use the replace function (Ctrl+H) use Search Mode: Extended , and replace all ,\r\n with ',\r\n' (and add a ' at the beginning and end of course)
+
+## Select only a certain column in notepad++
+  Select the text while holding the ALT key
+  
